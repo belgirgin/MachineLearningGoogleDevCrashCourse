@@ -1,4 +1,4 @@
-# MachineLearningGoogleDevCrashCourse
+# Machine Learning Google Developer Crash Course
 Today I started Machine Learning Crash Course from Google Developers. I will be sharing my learning journey here. 
 
 Day #1 
